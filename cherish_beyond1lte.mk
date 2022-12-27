@@ -33,7 +33,7 @@ TARGET_BOOTANIMATION_HALF_RES := true
 TARGET_SCREEN_HEIGHT := 3040
 TARGET_SCREEN_WIDTH := 1440
 
-##Fingerprint Animations
+## Fingerprint Animations
 EXTRA_UDFPS_ANIMATIONS := true
 
 ## Inherit some common Lineage stuff
