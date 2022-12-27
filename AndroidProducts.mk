@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_beyond1lte.mk
+    $(LOCAL_DIR)/carbon_beyond1lte.mk
 
 COMMON_LUNCH_CHOICES := \
-    xtended_beyond1lte-eng \
-    xtended_beyond1lte-user \
-    xtended_beyond1lte-userdebug
+    carbon_beyond1lte-eng \
+    carbon_beyond1lte-user \
+    carbon_beyond1lte-userdebug
